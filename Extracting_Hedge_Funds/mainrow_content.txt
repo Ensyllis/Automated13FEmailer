@@ -1,0 +1,1600 @@
+--- Row 1 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/30
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/creekside-partners-top-holdings/">
+   Creekside Partners
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $180,578
+ </td>
+</tr>
+
+
+--- Row 2 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/30
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/gordian-capital-singapore-pte-ltd-top-holdings/">
+   Gordian Capital Singapore Pte Ltd
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $189,888
+ </td>
+</tr>
+
+
+--- Row 3 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/30
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/brown-financial-advisors-top-holdings/">
+   Brown Financial Advisors
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $223,770
+ </td>
+</tr>
+
+
+--- Row 4 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/30
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/ncp-inc-top-holdings/">
+   NCP Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $158,071
+ </td>
+</tr>
+
+
+--- Row 5 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/30
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/sw-investment-management-llc-top-holdings/">
+   SW Investment Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $314,407
+ </td>
+</tr>
+
+
+--- Row 6 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/30
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/centennial-bank-ar-top-holdings/">
+   Centennial Bank AR
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $204,133
+ </td>
+</tr>
+
+
+--- Row 7 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/30
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/mendon-capital-advisors-corp-top-holdings/">
+   Mendon Capital Advisors Corp
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $118,200
+ </td>
+</tr>
+
+
+--- Row 8 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/30
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/pensioenfonds-rail-ov-top-holdings/">
+   Pensioenfonds Rail &amp; OV
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,335,136
+ </td>
+</tr>
+
+
+--- Row 9 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/30
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/strategic-investment-solutions-inc-il-top-holdings/">
+   Strategic Investment Solutions Inc. IL
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $310,660
+ </td>
+</tr>
+
+
+--- Row 10 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/29
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/university-of-texas-texas-am-investment-management-co-top-holdings/">
+   University of Texas Texas AM Investment Management Co.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $264,694
+ </td>
+</tr>
+
+
+--- Row 11 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/29
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/srn-advisors-llc-top-holdings/">
+   SRN Advisors LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $120,232
+ </td>
+</tr>
+
+
+--- Row 12 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/29
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/cowen-investment-management-llc-top-holdings/">
+   Cowen Investment Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $56,805
+ </td>
+</tr>
+
+
+--- Row 13 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/29
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/maven-securities-ltd-top-holdings/">
+   Maven Securities LTD
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $5,011,668
+ </td>
+</tr>
+
+
+--- Row 14 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/28
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/gibson-wealth-advisors-llc-top-holdings/">
+   Gibson Wealth Advisors LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $106,817
+ </td>
+</tr>
+
+
+--- Row 15 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/28
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/riverfront-investment-group-llc-top-holdings/">
+   RiverFront Investment Group LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $3,766,715
+ </td>
+</tr>
+
+
+--- Row 16 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/28
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/heritage-oak-wealth-advisors-llc-top-holdings/">
+   Heritage Oak Wealth Advisors LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $190,917
+ </td>
+</tr>
+
+
+--- Row 17 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/28
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/kestra-investment-management-llc-top-holdings/">
+   Kestra Investment Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,468,459
+ </td>
+</tr>
+
+
+--- Row 18 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/28
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/sycomore-asset-management-top-holdings/">
+   Sycomore Asset Management
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $565,814
+ </td>
+</tr>
+
+
+--- Row 19 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/28
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/birmingham-capital-management-co-inc-al-top-holdings/">
+   Birmingham Capital Management Co. Inc. AL
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $256,084
+ </td>
+</tr>
+
+
+--- Row 20 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/28
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/farmers-national-bank-top-holdings/">
+   Farmers National Bank
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $331,967
+ </td>
+</tr>
+
+
+--- Row 21 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/28
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/souders-financial-advisors-top-holdings/">
+   Souders Financial Advisors
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $663,184
+ </td>
+</tr>
+
+
+--- Row 22 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/27
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/logos-global-management-lp-top-holdings/">
+   Logos Global Management LP
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,244,793
+ </td>
+</tr>
+
+
+--- Row 23 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/27
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/clearbridge-investments-llc-top-holdings/">
+   Clearbridge Investments LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $123,122,909
+ </td>
+</tr>
+
+
+--- Row 24 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/27
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/carrera-capital-advisors-top-holdings/">
+   Carrera Capital Advisors
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $305,988
+ </td>
+</tr>
+
+
+--- Row 25 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/27
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/new-wave-wealth-advisors-llc-top-holdings/">
+   New Wave Wealth Advisors LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $186,125
+ </td>
+</tr>
+
+
+--- Row 26 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/27
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/dana-investment-advisors-inc-top-holdings/">
+   Dana Investment Advisors Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $2,961,070
+ </td>
+</tr>
+
+
+--- Row 27 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/27
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/new-century-financial-group-llc-top-holdings/">
+   New Century Financial Group LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $235,418
+ </td>
+</tr>
+
+
+--- Row 28 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/27
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/custom-portfolio-group-llc-top-holdings/">
+   Custom Portfolio Group LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $128,154
+ </td>
+</tr>
+
+
+--- Row 29 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/27
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/kpp-advisory-services-llc-top-holdings/">
+   KPP Advisory Services LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $376,176
+ </td>
+</tr>
+
+
+--- Row 30 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/26
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/teachers-retirement-system-of-the-state-of-kentucky-top-holdings/">
+   Teachers Retirement System of The State of Kentucky
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $11,136,372
+ </td>
+</tr>
+
+
+--- Row 31 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/26
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/allianz-investment-management-u-s-llc-top-holdings/">
+   Allianz Investment Management U.S. LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,566,083
+ </td>
+</tr>
+
+
+--- Row 32 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/26
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/wealthquest-corp-top-holdings/">
+   Wealthquest Corp
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $775,909
+ </td>
+</tr>
+
+
+--- Row 33 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/26
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/bright-valley-capital-ltd-top-holdings/">
+   BRIGHT VALLEY CAPITAL Ltd
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $88,651
+ </td>
+</tr>
+
+
+--- Row 34 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/26
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/ariadne-wealth-management-lp-top-holdings/">
+   Ariadne Wealth Management LP
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $184,943
+ </td>
+</tr>
+
+
+--- Row 35 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/26
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/founders-financial-alliance-llc-top-holdings/">
+   Founders Financial Alliance LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $337,223
+ </td>
+</tr>
+
+
+--- Row 36 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/26
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/spx-gestao-de-recursos-ltda-top-holdings/">
+   SPX Gestao de Recursos Ltda
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $671,211
+ </td>
+</tr>
+
+
+--- Row 37 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/26
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/delphi-management-inc-ma-top-holdings/">
+   Delphi Management Inc. MA
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $123,209
+ </td>
+</tr>
+
+
+--- Row 38 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/23
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/aristides-capital-llc-top-holdings/">
+   Aristides Capital LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $364,527
+ </td>
+</tr>
+
+
+--- Row 39 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/23
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/somnio-financial-group-llc-top-holdings/">
+   Somnio Financial Group LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $113,318
+ </td>
+</tr>
+
+
+--- Row 40 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/23
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/orleans-capital-management-corp-la-top-holdings/">
+   Orleans Capital Management Corp LA
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $157,324
+ </td>
+</tr>
+
+
+--- Row 41 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/23
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/troy-asset-management-ltd-top-holdings/">
+   Troy Asset Management Ltd
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $3,095,369
+ </td>
+</tr>
+
+
+--- Row 42 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/22
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/pvg-asset-management-corp-top-holdings/">
+   PVG Asset Management Corp
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $25,239
+ </td>
+</tr>
+
+
+--- Row 43 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/22
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/cypress-capital-llc-top-holdings/">
+   Cypress Capital LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $334,834
+ </td>
+</tr>
+
+
+--- Row 44 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/22
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/aurora-investment-counsel-top-holdings/">
+   Aurora Investment Counsel
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $170,363
+ </td>
+</tr>
+
+
+--- Row 45 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/22
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/cetera-investment-advisers-top-holdings/">
+   Cetera Investment Advisers
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $43,423,034
+ </td>
+</tr>
+
+
+--- Row 46 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/22
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/aldebaran-financial-inc-top-holdings/">
+   Aldebaran Financial Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $72,208
+ </td>
+</tr>
+
+
+--- Row 47 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/22
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/kanen-wealth-management-llc-top-holdings/">
+   Kanen Wealth Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $161,594
+ </td>
+</tr>
+
+
+--- Row 48 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/22
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/kgh-ltd-top-holdings/">
+   KGH Ltd
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,718,831
+ </td>
+</tr>
+
+
+--- Row 49 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/22
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/lhm-inc-top-holdings/">
+   LHM Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $241,275
+ </td>
+</tr>
+
+
+--- Row 50 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/22
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/3chopt-investment-partners-llc-top-holdings/">
+   3Chopt Investment Partners LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $327,588
+ </td>
+</tr>
+
+
+--- Row 51 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/mcginn-penninger-investment-management-inc-top-holdings/">
+   McGinn Penninger Investment Management Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $147,088
+ </td>
+</tr>
+
+
+--- Row 52 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/spc-financial-inc-top-holdings/">
+   SPC Financial Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,080,474
+ </td>
+</tr>
+
+
+--- Row 53 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/heartland-bank-trust-co-top-holdings/">
+   Heartland Bank &amp; Trust Co
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $176,308
+ </td>
+</tr>
+
+
+--- Row 54 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/greenvale-capital-llp-top-holdings/">
+   Greenvale Capital LLP
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,591,945
+ </td>
+</tr>
+
+
+--- Row 55 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/advisory-alpha-llc-top-holdings/">
+   Advisory Alpha LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $2,536,848
+ </td>
+</tr>
+
+
+--- Row 56 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/ted-buchan-co-top-holdings/">
+   Ted Buchan &amp; Co
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $186,397
+ </td>
+</tr>
+
+
+--- Row 57 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/graham-capital-wealth-management-llc-top-holdings/">
+   Graham Capital Wealth Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $74,074
+ </td>
+</tr>
+
+
+--- Row 58 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/granite-bay-wealth-management-llc-top-holdings/">
+   Granite Bay Wealth Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $2,962,364
+ </td>
+</tr>
+
+
+--- Row 59 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/ims-capital-management-top-holdings/">
+   IMS Capital Management
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $222,944
+ </td>
+</tr>
+
+
+--- Row 60 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/regency-capital-management-inc-de-top-holdings/">
+   Regency Capital Management Inc. DE
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $155,341
+ </td>
+</tr>
+
+
+--- Row 61 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/stonepine-capital-management-llc-top-holdings/">
+   Stonepine Capital Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $109,606
+ </td>
+</tr>
+
+
+--- Row 62 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/21
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/truist-financial-corp-top-holdings/">
+   Truist Financial Corp
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $65,751,684
+ </td>
+</tr>
+
+
+--- Row 63 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/20
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/nantahala-capital-management-llc-top-holdings/">
+   Nantahala Capital Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,710,892
+ </td>
+</tr>
+
+
+--- Row 64 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/20
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/pathway-financial-advisers-llc-top-holdings/">
+   Pathway Financial Advisers LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $278,954
+ </td>
+</tr>
+
+
+--- Row 65 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/20
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/hfg-wealth-management-llc-top-holdings/">
+   HFG Wealth Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $156,966
+ </td>
+</tr>
+
+
+--- Row 66 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/20
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/novo-holdings-a-s-top-holdings/">
+   Novo Holdings A S
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,992,823
+ </td>
+</tr>
+
+
+--- Row 67 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/20
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/next-capital-management-llc-top-holdings/">
+   Next Capital Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $238,328
+ </td>
+</tr>
+
+
+--- Row 68 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/20
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/senator-investment-group-lp-top-holdings/">
+   Senator Investment Group LP
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $2,050,283
+ </td>
+</tr>
+
+
+--- Row 69 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/garde-capital-inc-top-holdings/">
+   Garde Capital Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,439,866
+ </td>
+</tr>
+
+
+--- Row 70 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/hwg-holdings-lp-top-holdings/">
+   HWG Holdings LP
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $272,723
+ </td>
+</tr>
+
+
+--- Row 71 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/point72-asset-management-l-p-top-holdings/">
+   Point72 Asset Management L.P.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $38,297,034
+ </td>
+</tr>
+
+
+--- Row 72 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/old-north-state-trust-llc-top-holdings/">
+   Old North State Trust LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $115,809
+ </td>
+</tr>
+
+
+--- Row 73 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/fiera-capital-corp-top-holdings/">
+   Fiera Capital Corp
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $31,963,213
+ </td>
+</tr>
+
+
+--- Row 74 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/ep-wealth-advisors-llc-top-holdings/">
+   EP Wealth Advisors LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $9,412,702
+ </td>
+</tr>
+
+
+--- Row 75 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/hershey-financial-advisers-llc-top-holdings/">
+   Hershey Financial Advisers LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $111,443
+ </td>
+</tr>
+
+
+--- Row 76 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/chase-investment-counsel-corp-top-holdings/">
+   Chase Investment Counsel Corp
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $298,966
+ </td>
+</tr>
+
+
+--- Row 77 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/brown-shipley-co-ltd-top-holdings/">
+   Brown Shipley&amp; Co Ltd
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $221,470
+ </td>
+</tr>
+
+
+--- Row 78 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/kimelman-baird-llc-top-holdings/">
+   Kimelman &amp; Baird LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,212,410
+ </td>
+</tr>
+
+
+--- Row 79 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/brandes-investment-partners-lp-top-holdings/">
+   Brandes Investment Partners LP
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $8,121,777
+ </td>
+</tr>
+
+
+--- Row 80 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/lynx1-capital-management-lp-top-holdings/">
+   Lynx1 Capital Management LP
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $276,699
+ </td>
+</tr>
+
+
+--- Row 81 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/b-riley-wealth-advisors-inc-top-holdings/">
+   B. Riley Wealth Advisors Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $3,928,416
+ </td>
+</tr>
+
+
+--- Row 82 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/19
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/connective-capital-management-llc-top-holdings/">
+   Connective Capital Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $55,633
+ </td>
+</tr>
+
+
+--- Row 83 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/cmg-global-holdings-llc-top-holdings/">
+   CMG Global Holdings LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $151,217
+ </td>
+</tr>
+
+
+--- Row 84 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/newport-capital-group-llc-top-holdings/">
+   Newport Capital Group LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $126,338
+ </td>
+</tr>
+
+
+--- Row 85 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/gateway-wealth-partners-llc-top-holdings/">
+   Gateway Wealth Partners LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $330,886
+ </td>
+</tr>
+
+
+--- Row 86 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/perceptive-advisors-llc-top-holdings/">
+   Perceptive Advisors LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $4,204,512
+ </td>
+</tr>
+
+
+--- Row 87 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/traction-financial-partners-llc-top-holdings/">
+   Traction Financial Partners LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $137,127
+ </td>
+</tr>
+
+
+--- Row 88 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/core-alternative-capital-top-holdings/">
+   Core Alternative Capital
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $500,197
+ </td>
+</tr>
+
+
+--- Row 89 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/ironwood-investment-management-llc-top-holdings/">
+   Ironwood Investment Management LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $187,010
+ </td>
+</tr>
+
+
+--- Row 90 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/kampmann-melissa-s-top-holdings/">
+   Kampmann Melissa S.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $136,914
+ </td>
+</tr>
+
+
+--- Row 91 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/wallace-capital-management-inc-top-holdings/">
+   Wallace Capital Management Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $780,671
+ </td>
+</tr>
+
+
+--- Row 92 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/saratoga-research-investment-management-top-holdings/">
+   Saratoga Research &amp; Investment Management
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $2,199,299
+ </td>
+</tr>
+
+
+--- Row 93 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/ecofi-investissements-sa-top-holdings/">
+   Ecofi Investissements SA
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $181,851
+ </td>
+</tr>
+
+
+--- Row 94 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/seaport-global-advisors-llc-top-holdings/">
+   Seaport Global Advisors LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $27,922
+ </td>
+</tr>
+
+
+--- Row 95 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/capital-impact-advisors-llc-top-holdings/">
+   Capital Impact Advisors LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $35,529
+ </td>
+</tr>
+
+
+--- Row 96 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/progeny-3-inc-top-holdings/">
+   Progeny 3 Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,043,293
+ </td>
+</tr>
+
+
+--- Row 97 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/second-line-capital-llc-top-holdings/">
+   Second Line Capital LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $326,889
+ </td>
+</tr>
+
+
+--- Row 98 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/covington-investment-advisors-inc-top-holdings/">
+   Covington Investment Advisors Inc.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $623,090
+ </td>
+</tr>
+
+
+--- Row 99 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/teewinot-capital-advisers-l-l-c-top-holdings/">
+   Teewinot Capital Advisers L.L.C.
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $1,014,097
+ </td>
+</tr>
+
+
+--- Row 100 ---
+<tr class="mainrow">
+ <td class="mainrow">
+  8/16
+ </td>
+ <td class="mainrow">
+  <a href="https://www.holdingschannel.com/13f/invst-llc-top-holdings/">
+   Invst LLC
+  </a>
+ </td>
+ <td align="right" class="mainrow">
+  $906,305
+ </td>
+</tr>
+
+

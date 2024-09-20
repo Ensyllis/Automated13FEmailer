@@ -1,0 +1,408 @@
+[
+  {
+    "company_name": "Creekside Partners",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Gordian Capital Singapore Pte Ltd",
+    "error": "No LinkedIn URLs found"
+  },
+  {
+    "company_name": "Brown Financial Advisors",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "NCP Inc.",
+    "error": "No LinkedIn URLs found"
+  },
+  {
+    "company_name": "SW Investment Management LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Centennial Bank AR",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Mendon Capital Advisors Corp",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Pensioenfonds Rail & OV",
+    "error": "No LinkedIn URLs found"
+  },
+  {
+    "company_name": "Strategic Investment Solutions Inc. IL",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "University of Texas Texas AM Investment Management Co.",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "SRN Advisors LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Cowen Investment Management LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Maven Securities LTD",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Gibson Wealth Advisors LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "RiverFront Investment Group LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Heritage Oak Wealth Advisors LLC",
+    "linkedin_url": "http://www.linkedin.com/in/lindsey-gibson-a3734b184",
+    "email": "lindsey@heritageoakwealthadvisors.com",
+    "first_name": "Lindsey",
+    "last_name": "Gibson",
+    "title": "Director Of Operations",
+    "current_employer": null,
+    "company_linkedin_url": null
+  },
+  {
+    "company_name": "Kestra Investment Management LLC",
+    "error": "No LinkedIn URLs found"
+  },
+  {
+    "company_name": "Sycomore Asset Management",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Birmingham Capital Management Co. Inc. AL",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Farmers National Bank",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Souders Financial Advisors",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Logos Global Management LP",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Clearbridge Investments LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Carrera Capital Advisors",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "New Wave Wealth Advisors LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Dana Investment Advisors Inc.",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "New Century Financial Group LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Custom Portfolio Group LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "KPP Advisory Services LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Teachers Retirement System of The State of Kentucky",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Allianz Investment Management U.S. LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Wealthquest Corp",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "BRIGHT VALLEY CAPITAL Ltd",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Ariadne Wealth Management LP",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Founders Financial Alliance LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "SPX Gestao de Recursos Ltda",
+    "error": "No LinkedIn URLs found"
+  },
+  {
+    "company_name": "Delphi Management Inc. MA",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Aristides Capital LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Somnio Financial Group LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Orleans Capital Management Corp LA",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Troy Asset Management Ltd",
+    "error": "No LinkedIn URLs found"
+  },
+  {
+    "company_name": "PVG Asset Management Corp",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Cypress Capital LLC",
+    "error": "No LinkedIn URLs found"
+  },
+  {
+    "company_name": "Aurora Investment Counsel",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Cetera Investment Advisers",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Aldebaran Financial Inc.",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Kanen Wealth Management LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "KGH Ltd",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "LHM Inc.",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "3Chopt Investment Partners LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "McGinn Penninger Investment Management Inc.",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "SPC Financial Inc.",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Heartland Bank & Trust Co",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Greenvale Capital LLP",
+    "error": "No LinkedIn URLs found"
+  },
+  {
+    "company_name": "Advisory Alpha LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Ted Buchan & Co",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Graham Capital Wealth Management LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Granite Bay Wealth Management LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "IMS Capital Management",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Regency Capital Management Inc. DE",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Stonepine Capital Management LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Truist Financial Corp",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Nantahala Capital Management LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Pathway Financial Advisers LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "HFG Wealth Management LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Novo Holdings A S",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Next Capital Management LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Senator Investment Group LP",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Garde Capital Inc.",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "HWG Holdings LP",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Point72 Asset Management L.P.",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Old North State Trust LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Fiera Capital Corp",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "EP Wealth Advisors LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Hershey Financial Advisers LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Chase Investment Counsel Corp",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Brown Shipley& Co Ltd",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Kimelman & Baird LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Brandes Investment Partners LP",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Lynx1 Capital Management LP",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "B. Riley Wealth Advisors Inc.",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Connective Capital Management LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "CMG Global Holdings LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Newport Capital Group LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Gateway Wealth Partners LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Perceptive Advisors LLC",
+    "error": "API request failed: 429 Client Error: Too Many Requests for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Traction Financial Partners LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Core Alternative Capital",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Ironwood Investment Management LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Kampmann Melissa S.",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Wallace Capital Management Inc.",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Saratoga Research & Investment Management",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Ecofi Investissements SA",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Seaport Global Advisors LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Capital Impact Advisors LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Progeny 3 Inc.",
+    "error": "No LinkedIn URLs found"
+  },
+  {
+    "company_name": "Second Line Capital LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Covington Investment Advisors Inc.",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Teewinot Capital Advisers L.L.C.",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  },
+  {
+    "company_name": "Invst LLC",
+    "error": "API request failed: 422 Client Error: Unprocessable Entity for url: https://api.apollo.io/api/v1/people/bulk_match"
+  }
+]
